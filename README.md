@@ -37,10 +37,12 @@ Ensure you have the following software installed:
    ```bash
    cd imdb-clone
 3. Install the dependencies:
-- npm install
+   ```bash
+   npm install
 4. Running the Application
 - To run the application in development mode, use the following command:
--- npm run dev
+   ```bash
+   npm run dev
 
 
 
