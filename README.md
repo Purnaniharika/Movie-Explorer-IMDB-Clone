@@ -59,9 +59,10 @@ Ensure you have the following software installed:
 - React.js
 - Tailwind CSS
 
-<!-- 
+
 # Gallery
-![Screenshot 2024-07-13 151026](https://github.com/user-attachments/assets/83038a8c-602e-4d51-aa7e-ecbd31fd93f9)
+![Screenshot1](imdb-clone-main/src/assets/watchlist-wizard.netlify.app_ (1).png)
+<!--
 ![Screenshot 2024-07-13 151110](https://github.com/user-attachments/assets/cd63e0ac-cbab-4800-bb5d-d6c4b20a3253)
 ![Screenshot 2024-07-13 151125](https://github.com/user-attachments/assets/f3db71f7-eaf0-4df5-9d83-33099dafd63b)
 ![Screenshot 2024-07-13 151206](https://github.com/user-attachments/assets/28249be1-183e-4ac0-b357-b374fc3caf16) -->
