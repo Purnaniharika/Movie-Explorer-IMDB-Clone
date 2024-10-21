@@ -61,7 +61,7 @@ Ensure you have the following software installed:
 
 
 # Gallery
-![Screenshot1](imdb-clone-main/src/assets/watchlist-wizard.netlify.app_ (1).png)
+![Screenshot1](src/assets/watchlist-wizard.netlify.app_ (1).png)
 <!--
 ![Screenshot 2024-07-13 151110](https://github.com/user-attachments/assets/cd63e0ac-cbab-4800-bb5d-d6c4b20a3253)
 ![Screenshot 2024-07-13 151125](https://github.com/user-attachments/assets/f3db71f7-eaf0-4df5-9d83-33099dafd63b)
