@@ -35,7 +35,7 @@ Ensure you have the following software installed:
    git clone https://github.com/Purnaniharika/Movie-Explorer-IMDB-Clone.git
 2. Navigate to the project directory:
    ```bash
-   cd imdb-clone
+   cd imdb-clone-main
 3. Install the dependencies:
    ```bash
    npm install
