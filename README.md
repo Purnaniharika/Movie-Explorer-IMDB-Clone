@@ -32,7 +32,7 @@ Ensure you have the following software installed:
 
 1. **Download or clone this repository to your local machine**:
    ```bash
-   git clone https://github.com/your-username/movie-explorer.git
+   git clone https://github.com/Purnaniharika/Movie-Explorer-IMDB-Clone.git
 2. Navigate to the project directory:
 - cd imdb-clone
 3. Install the dependencies:
